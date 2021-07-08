@@ -1,0 +1,7 @@
+fastapi
+numpy
+uvicorn
+deepface
+cv2
+pandas 
+pickle
